@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\56_4\56_4\obj\Debug\56_4.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\56_4\56_4\obj\Debug\_56_4.Form1.resources
+C:\Users\user\source\repos\56_4\56_4\obj\Debug\_56_4.Resources.resources
+C:\Users\user\source\repos\56_4\56_4\obj\Debug\56_4.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\56_4\56_4\obj\Debug\56_4.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\56_4\56_4\bin\Debug\56_4.exe.config
+C:\Users\user\source\repos\56_4\56_4\bin\Debug\56_4.exe
+C:\Users\user\source\repos\56_4\56_4\bin\Debug\56_4.pdb
+C:\Users\user\source\repos\56_4\56_4\bin\Debug\56_4.xml
+C:\Users\user\source\repos\56_4\56_4\obj\Debug\56_4.exe
+C:\Users\user\source\repos\56_4\56_4\obj\Debug\56_4.xml
+C:\Users\user\source\repos\56_4\56_4\obj\Debug\56_4.pdb
